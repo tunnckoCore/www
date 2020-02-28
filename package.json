@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "author": "Charlike Mike Reagent <opensource@tunnckocore.com>",
+  "workspaces": [
+    "@packages/*"
+  ]
+}
